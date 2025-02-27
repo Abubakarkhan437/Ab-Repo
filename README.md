@@ -1,2 +1,3 @@
-# Ab-Repo
-This Is my First Repository
+# AB-Repo
+This is my First Git Repository
+Author-Abubakar khan
